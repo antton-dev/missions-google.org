@@ -30,4 +30,4 @@ On relève facilement les informations transmises sur le formulaire de connexion
 
 ## Vidéo
 Ci dessous la vidéo de démonstration
-!(vidéo de démonstration)[video/demo.webm]
+![](video/demo.webm)
