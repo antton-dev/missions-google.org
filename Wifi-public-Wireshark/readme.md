@@ -26,4 +26,4 @@ En parallèle, lancer une capture Wireshark. Afin de ne pas perdre l'audience, p
 Rentrer des informations de connexion (**bien sur, ne pas utiliser de réelles informations**). Mettre fin à la capture Wireshark. Cliquer sur l'unique ligne relevée, et faire dérouler la section "HTML form URL Encoded" dans le menu en bas à gauche.
 ![Capture Wireshark](img/wireshark.png)
 
-On relève facilement les informations transmise sur le formulaire de connexion.
+On relève facilement les informations transmises sur le formulaire de connexion.
