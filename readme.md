@@ -3,3 +3,9 @@ Ce dépôt Github a pour objectif de regrouper l'ensemble de ma documentation te
 
 # Avertissement / Clause de non responsabilité
 Les démonstrations décrites dans le dépôt sont réalisées dans un environnement contrôlé, local et/ou avec autorisation écrite et détaillée. Elles n'ont qu'un ojbectif pédagogique de sensiblisation et d'information. L'auteur de ces documents ne saurait être tenu responsable des conséquences de leur utilisation malveillante par autrui. 
+
+
+# Licence
+Ce contenu est distribué sous la licence Creative Commons CC BY-NC-ND 4.0. Plus d'information : 
+- [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
+- [LICENCE](/LICENSE)
