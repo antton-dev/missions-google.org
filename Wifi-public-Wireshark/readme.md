@@ -20,8 +20,8 @@ Pour mener à bien cette démonstration, il faudra :
 Imaginons que nous voulions nous connecter à ce site internet. Faire remarquer que le site est en http uniquement. 
 ![capture web](img/screenshot_web_http.png)
 
-En parallèle, lancer une capture Wireshark. Afin de ne pas perdre l'audience, prévoir à l'avance les filtre à utiliser pour ne pas noyer l'information pertinente : 
-````http.request.method=="POST"```
+En parallèle, lancer une capture Wireshark. Afin de ne pas perdre l'audience, prévoir à l'avance les filtres à utiliser pour ne pas noyer l'information pertinente : 
+```http.request.method=="POST"```
 
 Rentrer des informations de connexion (**bien sur, ne pas utiliser de réelles informations**). Mettre fin à la capture Wireshark. Cliquer sur l'unique ligne relevée, et faire dérouler la section "HTML form URL Encoded" dans le menu en bas à gauche.
 ![Capture Wireshark](img/wireshark.png)
