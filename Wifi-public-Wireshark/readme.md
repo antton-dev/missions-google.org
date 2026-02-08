@@ -29,5 +29,5 @@ Rentrer des informations de connexion (**bien sur, ne pas utiliser de réelles i
 On relève facilement les informations transmises sur le formulaire de connexion.
 
 ## Vidéo
-Ci dessous la vidéo de démonstration
-![](video/demo.webm)
+la vidéeo de démonstration est disponible dans le dossier vidéo.
+![video de démo](video/demo.mp4)
